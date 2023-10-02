@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+### Name: [Shaik Asif Umeed] (https://github.com/aacode7)
+- Place: Visakhapatnam, India
+- Bio: A engineering Student and a passionate Cloud and DevOps engineer
+- Github: [Shaik Asif Umeed] (https://github.com/aacode7)
